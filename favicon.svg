@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720">
+  <rect width="600" height="720" fill="#faf3e6"/>
+  <line x1="115" y1="0" x2="150" y2="130" stroke="#1f3a8e" stroke-width="40" stroke-linecap="butt"/>
+  <line x1="485" y1="0" x2="450" y2="130" stroke="#1f3a8e" stroke-width="40" stroke-linecap="butt"/>
+  <g fill="#1a1a1a" font-family="'Playfair Display','Bodoni 72','Times New Roman',serif" text-anchor="middle">
+    <text x="300" y="270" font-weight="700" font-size="138">MBH</text>
+    <text x="300" y="450" font-weight="600" font-size="80" letter-spacing="6">-1955-</text>
+  </g>
+</svg>

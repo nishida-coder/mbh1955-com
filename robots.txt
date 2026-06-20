@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /og.html
+Disallow: /img-preview/
+
+Sitemap: https://mbh1955.com/sitemap.xml
